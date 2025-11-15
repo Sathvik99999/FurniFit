@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889578667562",
+    "project_id": "furnifit-d4361",
+    "storage_bucket": "furnifit-d4361.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889578667562:android:d1f9065bee164648d64d53",
+        "android_client_info": {
+          "package_name": "com.furnifit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBir2i8GnZgCe0V99QIAhzKvNAFAcnIbYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

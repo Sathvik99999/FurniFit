@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The default theme of the app -->
+    <style name="Theme.FurniFit" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/light_purple_background</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:statusBarColor">@color/purple_500</item>
+    </style>
+
+    <style name="ProfileMenuItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:drawablePadding">16dp</item>
+    </style>
+
+    <style name="Theme.FurniFit.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.FurniFit.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
